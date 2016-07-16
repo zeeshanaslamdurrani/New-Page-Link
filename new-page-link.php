@@ -4,7 +4,7 @@ Plugin Name: New Page Link
 Plugin URI: https://newpagelink.wordpress.com/
 Description: A plugin to open your links in a new tab
 Author: Zeeshan Aslam Durrani
-Version: 1.0
+Version: 1.1
 Author URI: https://newpagelink.wordpress.com/
 Text Domain: new-page-link
 Domin Path: Languages

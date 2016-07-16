@@ -3,8 +3,8 @@ Contributors: pluspt2001
 Donate link: https://newpagelink.wordpress.com/contact-us/
 Tags: open tab, open new window, click link, new link, new window, hyperlink, links, new tab, new browser window, my link, click me, click the link, open new link, admin, external link, link, page, redirect, repoint
 Requires at least: 3.0.1
-Tested up to: 4.3
-Stable tag: 1.0
+Tested up to: 4.5.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
